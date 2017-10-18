@@ -10,7 +10,6 @@ set title
 set shiftwidth=2
 
 "autocmd setting"
-
 autocmd BufNewFile,BufRead *.py nnoremap <C-e> :!python %
 autocmd BufNewFile,BufRead *.rb nnoremap <C-e> :!ruby %
 autocmd BufNewFile,BufRead *.pl nnoremap <C-e> :!perl %
