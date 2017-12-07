@@ -4,7 +4,6 @@ endif
 
 set tabstop=4
 set number
-set cursorline
 set smartindent
 set title
 set shiftwidth=2
